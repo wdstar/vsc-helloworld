@@ -1,3 +1,5 @@
+[![Known Vulnerabilities](https://snyk.io//test/github/wdstar/vsc-helloworld/badge.svg?targetFile=package.json)](https://snyk.io//test/github/wdstar/vsc-helloworld?targetFile=package.json)
+
 # Usage
 
 See: https://code.visualstudio.com/docs/extensions/example-hello-world
