@@ -1,4 +1,5 @@
 [![Known Vulnerabilities](https://snyk.io//test/github/wdstar/vsc-helloworld/badge.svg?targetFile=package.json)](https://snyk.io//test/github/wdstar/vsc-helloworld?targetFile=package.json)
+[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=wdstar_vsc-helloworld&metric=alert_status)](https://sonarcloud.io/dashboard?id=wdstar_vsc-helloworld)
 
 # Usage
 
